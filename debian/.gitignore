@@ -1,0 +1,10 @@
+/libopenscenegraph*/
+/libopenthreads*/
+/openscenegraph*/
+/tmp/
+/libopenscenegraph*.substvars
+/libopenthreads*.substvars
+/openscenegraph*.substvars
+/*.debhelper
+/*.debhelper.log
+/files
